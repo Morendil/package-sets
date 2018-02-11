@@ -2101,6 +2101,17 @@
     "repo": "https://github.com/joneshf/purescript-webstorage",
     "version": "v3.0.1"
   },
+  "yaml": {
+    "dependencies": [
+      "functions",
+      "foreign",
+      "foreign-generic",
+      "unsafe-coerce",
+      "argonaut-core"
+    ],
+    "repo": "https://github.com/archaeron/purescript-yaml.git",
+    "version": "v0.2.0"
+  },
   "yargs": {
     "dependencies": [
       "console",
