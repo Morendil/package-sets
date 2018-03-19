@@ -1020,6 +1020,16 @@
     "repo": "https://github.com/purescript-contrib/purescript-machines.git",
     "version": "v4.0.0"
   },
+  "matryoshka": {
+    "dependencies": [
+      "fixed-points",
+      "free",
+      "profunctor",
+      "transformers"
+    ],
+    "repo": "https://github.com/slamdata/purescript-matryoshka.git",
+    "version": "v0.3.0"
+  },
   "maps": {
     "dependencies": [
       "arrays",
